@@ -12,3 +12,5 @@
 - (optional but nice) provide a tree diagram
 
 ## Rendered output
+
+- link to any rendered pdf from a qmd
